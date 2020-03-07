@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+#pages {
+  align-self: center;
+}
+
+.table td,
+th {
+  text-align: left;
+}
+
+.table thead {
+  background-color: rgb(198, 206, 216);
+}
